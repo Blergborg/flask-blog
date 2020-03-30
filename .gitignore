@@ -3,3 +3,9 @@
 
 # Ignore virtual environment folder
 venv
+
+# Ignore vscode settings
+.vscode
+
+#Ignore pycache
+__pychache__
