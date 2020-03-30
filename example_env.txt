@@ -1,0 +1,17 @@
+SECRET_KEY='Your secret key here'
+SQLALCHEMY_DATABASE_URI='sqlite:///site.db'
+
+/*
+  Your .env file you be formatted like the block of
+  lines above.
+
+
+  SECRET_KEY
+  Used to hash passwords with bcrypt.
+  Python's secrets module is useful for this.
+  https://docs.python.org/3/library/secrets.html
+
+  SQLALCHEMY_DATABASE_URI
+  Copy the line given for now and the site will work.
+  Can later be set to a URI for something like Postgres
+*/
