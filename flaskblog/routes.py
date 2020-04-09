@@ -90,6 +90,7 @@ def save_picture(form_picture):
     i.save(picture_path)
 
     return picture_fn
+    # possibly add some functionality to delete old profile picture when a user updates
 
 
 @app.route("/account", methods=["GET", "POST"])
