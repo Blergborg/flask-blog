@@ -20,11 +20,7 @@ lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
 pathspec==0.7.0
-<<<<<<< HEAD
 Pillow==9.0.1
-=======
-Pillow==8.2.0
->>>>>>> fe3a5857cb1320a43dd5e603e756f8b9b836c74a
 pycparser==2.20
 pylint==2.4.4
 python-dotenv==0.12.0
